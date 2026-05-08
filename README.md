@@ -1,7 +1,7 @@
 # html-mania
 Osu!Mania but html file downloadable
 
-You are not allowed to modify html!mania's code. It is obfuscated for a reason. Thanks!
+You are not allowed to modify html!mania's code. It is obfuscated to prevent theft. Sorry! Blame the people who steal work and brand it as their own.
 
 Creative Commons Attribution-NoDerivatives 4.0 International Public License
 
